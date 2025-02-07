@@ -7,7 +7,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 <h1 align="center">Hi 👋, I'm Vinay Kumar Shivakoti</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A Cloud engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakoti-vinay&label=Profile%20views&color=0e75b6&style=flat" alt="shivakoti-vinay" /> </p>
 
